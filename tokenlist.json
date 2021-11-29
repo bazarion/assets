@@ -1,0 +1,89 @@
+{
+    "name":"bazarion",
+    "timestamp":"2021-10-05T18:24:17+00:00",
+    "version": {
+        "major": 137, "minor": 0, "patch":0
+    },
+    "keywords": [
+        "bazarion",
+        "default",
+        "list"
+    ],
+    "tokens": [
+        {
+            "address": "0xf697F0fe68f9D1e5AdcaDF723b232eBd601e59b0",
+            "chainId": 88,
+            "name": "TomoPunks",
+            "symbol": "TPNKS",
+            "decimals": 0,
+            "standard": "ERC721"
+        },
+        {
+            "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+            "chainId": 88,
+            "name": "TomoChain",
+            "symbol": "TOMO",
+            "decimals": 18,
+            "standard": "ERC20",
+            "logoURI": "https://cryptologos.cc/logos/tomochain-tomo-logo.png?v=014"
+        },
+        {
+            "address": "0x7A42bb3DBD8913eC69f0E7F82E446B697cffC3e7",
+            "chainId": 44787,
+            "name": "MyNFT",
+            "symbol": "MyNFT",
+            "decimals": 18,
+            "standard": "ERC721"
+        },
+        {
+            "address": "0x9667b35D7ed67A1a5f51F3276B90223e43c183Be",
+            "chainId": 44787,
+            "name": "Celo",
+            "symbol": "A-CELO",
+            "decimals": 18,
+            "standard": "ERC20",
+            "logoURI": "https://cryptologos.cc/logos/celo-celo-logo.png?v=014"
+        },
+        {
+            "address": "0x0f79657e61fe20f0bF4015C427705A57D9ae5EDc",
+            "chainId": 89,
+            "name": "TomoChain",
+            "symbol": "TOMO",
+            "decimals": 18,
+            "standard": "ERC20",
+            "logoURI": "https://cryptologos.cc/logos/tomochain-tomo-logo.png?v=014"
+        },
+        {
+            "address": "0x19c46d416944e4fEc86Fd6d447d8E892FF92DA1E",
+            "chainId": 89,
+            "name": "Bazarion",
+            "symbol": "BAZA",
+            "decimals": 18,
+            "standard": "ERC20"
+        },
+        {
+            "address": "0xd421e4FF6de5226A135A1a6C44067e6d0bD08e34",
+            "chainId": 89,
+            "name": "BazaPet",
+            "symbol": "BAZAPET",
+            "decimals": 0,
+            "standard": "ERC721",
+            "logoURI": "https://lh3.googleusercontent.com/33njWxloRLzQGYfp9RfvpsWN8C1rcYaSZLi3KOZ8vQGPVGLGralkctsdYKjY3yNpfeHKtwnPcG-bFTXSOsiSuJ0vLUYX1kLH5HTjyg=w189"
+        },
+        {
+            "address": "0xbe6D03635ACaF552929a3f1688FAEc0bC70D94d8",
+            "chainId": 89,
+            "name": "Package2",
+            "symbol": "PCKG",
+            "decimals": 0,
+            "standard": "ERC721",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "links": {
+                "website": "https://tomochain.com",
+                "twitter": "https://tomochain.com",
+                "telegram": "https://tomochain.com",
+                "github": "https://tomochain.com"
+            }
+        }
+    ]
+}
