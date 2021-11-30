@@ -1,0 +1,22 @@
+{
+  "name": "@baza/assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazarion/assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bazarion/assets/issues"
+  },
+  "homepage": "https://github.com/bazarion/assets#readme",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}

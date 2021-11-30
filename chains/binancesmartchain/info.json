@@ -1,0 +1,6 @@
+{
+    "name": "Binance Smart Chain",
+    "chainId": 56,
+    "symbol": "BNB",
+    "decimals": 18
+}
