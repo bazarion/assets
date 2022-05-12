@@ -54,14 +54,6 @@
             "logoURI": "https://cryptologos.cc/logos/tomochain-tomo-logo.png?v=014"
         },
         {
-            "address": "0x19c46d416944e4fEc86Fd6d447d8E892FF92DA1E",
-            "chainId": 89,
-            "name": "Bazarion",
-            "symbol": "BAZA",
-            "decimals": 18,
-            "standard": "ERC20"
-        },
-        {
             "address": "0xd421e4FF6de5226A135A1a6C44067e6d0bD08e34",
             "chainId": 89,
             "name": "BazaPet",
